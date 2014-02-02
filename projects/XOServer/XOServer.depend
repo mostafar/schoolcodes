@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1387963728 source:/home/mostafa/tmp/XOServer/main.cpp
+	<iostream>
+	<unistd.h>
+	"xo.h"
+	"dummyplayer.h"
+	"myplayer.h"
+
+1387436816 /home/mostafa/tmp/XOServer/xo.h
+	<string>
+	"player.h"
+
+1387963744 source:/home/mostafa/tmp/XOServer/xo.cpp
+	<iostream>
+	<cstring>
+	"xo.h"
+
+1387565705 /home/mostafa/tmp/XOServer/player.h
+	<string>
+
+1387565631 source:/home/mostafa/tmp/XOServer/player.cpp
+
+1387565711 /home/mostafa/tmp/XOServer/dummyplayer.h
+	"player.h"
+
+1387565586 source:/home/mostafa/tmp/XOServer/dummyplayer.cpp
+	<cstdlib>
+	"dummyplayer.h"
+
+1387567109 source:/home/mostafa/tmp/XOServer/myplayer.cpp
+	"myplayer.h"
+
+1387566794 /home/mostafa/tmp/XOServer/myplayer.h
+	"player.h"
+
